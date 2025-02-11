@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "6e08b9aaf4b4a6b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa1e42f2c6ebb44f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4ed3f032339e638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_"
+            }
+          },
+          {
+            "id": "0b92247acd191eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xestión financieira de empresas/3-A información financeira como base para a toma de decisións.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-A información financeira como base para a toma de decisións"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3eb3c4eab0e6705c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a719578ca6be2bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1c75d978cce16dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "25db3658854b016b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "cfb879cc8304d49c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1aa668719bf553cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "39b9d9a4ad6281d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acc41096cc9bf634",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "c2766abd40291d18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "5c5cb96d6b01d831",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1b6b09d1fc1f1646",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Xestión financieira de empresas.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Xestión financieira de empresas"
+            }
+          },
+          {
+            "id": "fcdb48ec0e507d75",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "f1c75d978cce16dd",
+  "lastOpenFiles": [
+    "Xestión financieira de empresas/Archivos/Pasted image 20250211164359.png",
+    "Xestión financieira de empresas/Archivos",
+    "Xestión financieira de empresas/2-Creación de empresas. Da xeración de ideas ao business plan.md",
+    "Pasted image 20250211163056.png",
+    "Xestión financieira de empresas/3-A información financeira como base para a toma de decisións.md",
+    "Xestión financieira de empresas/Archivos/Pasted image 20250211163103.png",
+    "Sin título 1.md",
+    "etiqueta.md",
+    "Sin título.md",
+    "_.md",
+    "Xestión financieira de empresas/1-Introdución da actividade económica e empresarial.md",
+    "Bases de datos II/Apuntes atajos sql.md",
+    "nombre de la nota.md",
+    "Dis.Software",
+    "Soii",
+    "Bases de datos II",
+    "Xestión financieira de empresas/*.md",
+    "ArqComp",
+    "Xestión financieira de empresas/Introdución á actividade económica e empresarial.md",
+    "COGA",
+    "Xestión financieira de empresas/Introdución á actividade económicae empresarial.md",
+    "Bienvenido.md",
+    "Xestión financieira de empresas",
+    "Xestión financieira de empresas.md"
+  ]
+}
