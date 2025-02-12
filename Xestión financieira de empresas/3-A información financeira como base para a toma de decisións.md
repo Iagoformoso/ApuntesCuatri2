@@ -98,6 +98,12 @@ Exemplo -> unha factura implica recoller un gasto aínda que non se pague inmedi
 Hay que saber diferenciar entre os tipos de ingresos e gastos.
 A suma de ámbolos dous e o resultado antes de impostos,de ahí se cobran e queda o resultado do exercicio.
 O imosto de sociedade é algo independente (fora de explotación e financeiro).
+Hacer en examen A1,A2,A3,A5 (CREO)
+
+**PROBABLE NÓMINA EN EXAMEN** (menos que balance y I/G)
+
+
+
 
 
 ### 3.1. A necesidade de información financeira

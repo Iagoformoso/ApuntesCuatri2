@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_"
+              "title": "README"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xestión financieira de empresas/3-A información financeira como base para a toma de decisións.md",
+                "file": "Xestión financieira de empresas/2-Creación de empresas. Da xeración de ideas ao business plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-A información financeira como base para a toma de decisións"
+              "title": "2-Creación de empresas. Da xeración de ideas ao business plan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,18 +187,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f1c75d978cce16dd",
+  "active": "f4ed3f032339e638",
   "lastOpenFiles": [
+    "Chuleta.md",
+    "Xestión financieira de empresas/3-A información financeira como base para a toma de decisións.md",
+    "Xestión financieira de empresas/2-Creación de empresas. Da xeración de ideas ao business plan.md",
     "Xestión financieira de empresas/Archivos/Pasted image 20250211164359.png",
     "Xestión financieira de empresas/Archivos",
-    "Xestión financieira de empresas/2-Creación de empresas. Da xeración de ideas ao business plan.md",
     "Pasted image 20250211163056.png",
-    "Xestión financieira de empresas/3-A información financeira como base para a toma de decisións.md",
     "Xestión financieira de empresas/Archivos/Pasted image 20250211163103.png",
     "Sin título 1.md",
     "etiqueta.md",
     "Sin título.md",
-    "_.md",
     "Xestión financieira de empresas/1-Introdución da actividade económica e empresarial.md",
     "Bases de datos II/Apuntes atajos sql.md",
     "nombre de la nota.md",
